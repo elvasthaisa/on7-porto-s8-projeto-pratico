@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "titulo": "Crash Bandicoot",
+        "anoLancamento": 1996,
+        "publicadora": "Nintendo"
+    },
+    {
+        "id": 2,
+        "titulo": "Donkey Kong - Game Boy",
+        "anoLancamento": 1994,
+        "publicadora": "Nintendo"
+    },
+    {
+        "id": 3,
+        "titulo": "Super Mario World - Game Boy",
+        "anoLancamento": 2001,
+        "publicadora": "Nintendo"
+    },
+    {
+        "id": 4,
+        "titulo": "Pokémon Stadium",
+        "anoLancamento": 1999,
+        "publicadora": "Nintendo 64"
+    },
+    {
+        "id": 5,
+        "titulo": "Sonic - The Hedgehog",
+        "anoLancamento": 1991,
+        "publicadora": "SEGA"
+    },
+    {
+        "id": 6,
+        "titulo": "Alex Kidd",
+        "anoLancamento": 1986,
+        "publicadora": "SEGA"
+    },
+    {
+        "id": 7,
+        "titulo": "Super Bomberman 5",
+        "anoLancamento": 1997,
+        "publicadora": "Hudson Soft"
+    },
+    {
+        "id": 8,
+        "titulo": "Mortal Kombat",
+        "anoLancamento": 1992,
+        "publicadora": "Midway Games"
+    }
+]
