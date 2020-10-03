@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "titulo": "Don't Stop Me Now",
+        "artista": "Queen",
+        "anoLancamento": 1979,
+        "duracao": "03:37"
+    },
+    {
+        "id": 2,
+        "titulo": "And I Love Her",
+        "artista": "The Beatles",
+        "anoLancamento": 1964,
+        "duracao": "02:33"
+    },
+    {
+        "id": 3,
+        "titulo": "Love Me Tender",
+        "artista": "Elvis Presley",
+        "anoLancamento": 1956,
+        "duracao": "02:47"
+    },
+    {
+        "id": 4,
+        "titulo": "Love of My Life",
+        "artista": "Queen",
+        "anoLancamento": 1975,
+        "duracao": "03:43"
+    },
+    {
+        "id": 5,
+        "titulo": "How Deep is Your Love",
+        "artista": "Bee Gees",
+        "anoLancamento": 1977,
+        "duracao": "04:00"
+    },
+    {
+        "id": 6,
+        "titulo": "City of Stars",
+        "artista": ["Emma Stone", "Ryan Gosling"],
+        "anoLancamento": 2016,
+        "duracao": "02:26"
+    },
+    {
+        "id": 7,
+        "titulo": "La Vie en Rose",
+        "artista": "Edith Piaf",
+        "anoLancamento": 1946,
+        "duracao": "03:07"
+    }
+]
